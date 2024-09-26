@@ -14889,7 +14889,7 @@
 		"ts-loader": "9.4.4",
 		"tsc-alias": "1.8.8",
 		"typescript": "5.2.2",
-		"webpack": "5.88.2",
+		"webpack": "5.94.0",
 		"webpack-bundle-analyzer": "4.9.1",
 		"webpack-cli": "5.1.4",
 		"webpack-node-externals": "3.0.0",
